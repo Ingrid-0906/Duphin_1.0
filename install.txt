@@ -1,0 +1,4 @@
+# Instalar essas versões do torch e o modelo do pydiario
+FONTE: https://pytorch.org/get-started/previous-versions/
+pip install torch==2.0.0+cpu torchvision==0.15.1+cpu torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cpu
+pip install -qq https://github.com/pyannote/pyannote-audio/archive/develop.zip
