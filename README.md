@@ -30,3 +30,6 @@ Os modelos de previsão de emoções usados no áudio foram treinados com áudio
 | 2 (rejeição)     | 0,85      | 0,91   | 0,88     | 55      |
 
 ![image](https://github.com/Ingrid-0906/Duphin_1.0/assets/92744210/303a3741-6575-4203-9e5c-b437e5706873)
+
+## Pipeline:
+![image](https://github.com/Ingrid-0906/Duphin_1.0/assets/92744210/8164be27-67e6-413c-b730-52ff6d55e86d)
