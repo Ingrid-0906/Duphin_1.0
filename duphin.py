@@ -4,7 +4,7 @@ import joblib
 
 if __name__ == "__main__":
     device = "cpu" # mudar para cuda se tiver gpu / o min custa acurácia
-    audio_file = input() # o caminho do áudio para ser analisado
+    audio_file = input() # o caminho do áudio para ser analisado ex. C:\Users\Wande\Documents\GitHub\Duphin_Emotion\Duphin_1.0\teste.mp3
     batch_size = 16 # diminuir se estiver custando muito a gpu
     compute_type = "int8" # mudar para float16 se tiver gpu / o min custa acurácia
     HF_TOKEN = "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"
